@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: white;
+  color: black;
+  font-family: "SPACE GROTESK";
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  width: 500px;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(21, 22, 21);
+}
+
+body {
+  background-color: rgb(226, 221, 223);
+  color: black;
+  font-family: "SPACE GROTESK";
+}
+p {
+  border-radius: 15px;
+  padding: 20px;
+  font-size: 15px;
+  font-weight: bolder;
+}
+
+.menu-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: rgb(255, 255, 255);
+}
+.menu-list {
+  display: flex;
+  list-style-type: none;
+}
+.list-item {
+  margin-left: 30px;
+  cursor: pointer;
+}
+
+/*table style*/
+.table {
+  border: collaps;
+  width: 100%;
+}
+tr,
+th {
+  border: 1px solid #0e0e0f;
+  padding: 8px;
+}
+/*table style*/
+form input {
+  width: 450px;
+  height: 200px;
+}
+body {
+  background-color: white;
+}
+.image {
+  width: 500px;
+  height: 3000px;
+}
+T {
+  width: 20px;
+}
+.phone-number {
+  text-decoration: underline;
+}
